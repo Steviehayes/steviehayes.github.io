@@ -16,6 +16,6 @@ Status: published
 
 ### It's certainly not for us humans; the ordinary men and women of this world. 
 
-### Makes you wonder, what really is going on?
+### Makes you wonder, what really is going on.  I read yesterday of a [new Stanford study](https://www.spectator.co.uk/article/stanford-study-suggests-coronavirus-might-not-be-as-deadly-as-flu) that showed COVID-19 is not more but thought to be less deadly than normal seasonal flu.
 
 ### For me the solution is good nutrition. More on that, later.
