@@ -67,3 +67,4 @@ The source code for generation of the blog is under [MIT License](https://github
 ## Contact
 
 If you have any questions, you can [email](mailto:steve.j.hayes@gmail.com) me.# github.io
+# steviehayes.github.io
