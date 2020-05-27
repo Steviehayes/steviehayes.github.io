@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2020-05-23T12:29:01-00:00</lastmod>
+<lastmod>2020-05-27T18:43:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2020-05-23T12:29:01-00:00</lastmod>
+<lastmod>2020-05-27T18:43:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2020-05-23T12:29:01-00:00</lastmod>
+<lastmod>2020-05-27T18:43:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2020-05-23T12:29:01-00:00</lastmod>
+<lastmod>2020-05-27T18:43:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2020-05-23T12:29:01-00:00</lastmod>
+<lastmod>2020-05-27T18:43:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -53,6 +53,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/2020/05/second_article/</loc>
+<lastmod>2020-05-27T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
 <loc>/2020/05/first_article/</loc>
 <lastmod>2020-05-22T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -61,14 +68,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/blog.html</loc>
-<lastmod>2020-05-22T00:00:00-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.6</priority>
-</url>
-
-<url>
-<loc>/tag/food.html</loc>
-<lastmod>2020-05-22T00:00:00-00:01</lastmod>
+<lastmod>2020-05-27T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -88,6 +88,27 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/tag/food.html</loc>
+<lastmod>2020-05-22T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>/tag/lockdown.html</loc>
+<lastmod>2020-05-27T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>/tag/next-steps.html</loc>
+<lastmod>2020-05-27T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
 <loc>/tag/thought.html</loc>
 <lastmod>2020-05-22T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
@@ -95,8 +116,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/tag/perspective.html</loc>
+<lastmod>2020-05-27T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>/tag/happiness.html</loc>
+<lastmod>2020-05-27T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
 <loc>/author/steve-hayes.html</loc>
-<lastmod>2020-05-22T00:00:00-00:01</lastmod>
+<lastmod>2020-05-27T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
